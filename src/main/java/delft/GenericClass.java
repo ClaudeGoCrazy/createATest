@@ -1,14 +1,8 @@
+// src/main/java/delft/GenericClass.java
 package delft;
 
-class GenericClass {
-
-	public static void doStuff(){
-		String s = "";
-		s += " ";
-		s += " ";
-		s += " ";
-		s += " ";
-		System.out.println(s);
-	}
-
+public class GenericClass {
+    public static void doStuff() {
+        System.out.print("    "); // Print four spaces
+    }
 }

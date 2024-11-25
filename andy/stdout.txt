@@ -6,18 +6,14 @@ Success
 --- JUnit execution
 1/1 passed
 
---- Console output
-    
-
-
 --- JaCoCo coverage
-Line coverage: 7/8
-Instruction coverage: 18/21
+Line coverage: 2/3
+Instruction coverage: 4/7
 Branch coverage: 0/0
-Lines not covered: 3
+Lines not covered: 4
 
 --- Mutation testing
-0/1 killed
+1/1 killed
 
 --- Code checks
 No code checks to be assessed
@@ -26,11 +22,30 @@ No code checks to be assessed
 0/0 passed
 
 --- Assessment
-Branch coverage: 0/0 (overall weight=0.55)
-Mutation coverage: 0/1 (overall weight=0.45)
+Branch coverage: 0/0 (overall weight=1.00)
+Mutation coverage: 1/1 (overall weight=0.00) (0 gives full points)
 Code checks: 0/0 (overall weight=0.00)
 Meta tests: 0/0 (overall weight=0.00)
 
-Final grade: 55/100
+Final grade: 100/100
 
-Andy is running in PRACTICE mode and took 3.3 seconds to assess your solution.
+    Super congrats!
+
+                    .--,
+     .-.    __,,,__/    |
+    /   \-'`        `-./_
+    |    |               `)
+     \   `             `\ ;
+    /       ,        ,    |
+    |      /         : O /_
+    |          O  .--;__   '.
+    |                (  )`.  |
+    \                 `-` /  |
+     \          ,_  _.-./`  /
+      \          \``-.(    /
+      |           `---'   /--.
+    ,--\___..__        _.'   /--.
+    \          `-._  _`/    '    '.
+    .' ` ' .       ``    '        .
+
+Andy is running in PRACTICE mode and took 2.4 seconds to assess your solution.
